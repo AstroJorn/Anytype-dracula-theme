@@ -8,13 +8,7 @@ Anytype dracula theme - this theme works only in dark mode.
 
 ![Imagem](https://github.com/AstroJorn/Anytype-dracula-theme/blob/94b973d4b3b71afea6f8b1a3682645b59961f47b/capture03.png)
 
-## Credits  
 
-The Reddit user **[thesunshinehome]** and I **[Astrojorn]**, who modified the theme created by thesunshinehome for the Dracula theme.  
-
-This modification is **only for dark mode** and does not strictly follow all the canonical colors of the **Dracula theme** or **Dracula Theme PRO**.  
-
-Feel free to use this **code/theme** as you wish. 🎨🚀
 
 ## Credits  
 
