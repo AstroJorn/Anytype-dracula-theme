@@ -1,0 +1,332 @@
+/* --------- FONT COLOURS IN LIGHT MODE ---------\
+*/
+
+:root {
+
+--color-grey: #E1E1E1  !important;
+--color-yellow: #FAC500  !important;
+--color-orange: #FB7D06 !important;
+--color-red: #E80055  !important;
+--color-pink: #ED00DF !important;
+--color-purple: #9E2CFF !important;
+--color-blue: #2D7DFF !important;
+--color-ice: #29F3FF  !important;
+--color-teal: #099090 !important;
+--color-lime: #5dd400 !important;
+--color-green: #00E706 !important;
+
+}
+
+
+/* --------- FONT COLOURS IN DARK MODE ---------\
+*/
+
+
+html.themeDark {
+--color-grey: #E1E1E1  !important;
+--color-yellow: #FAC500  !important;
+--color-orange: #FB7D06 !important;
+--color-red: #ff5555 !important;
+--color-pink: #ED00DF !important;
+--color-purple: #9E2CFF !important;
+--color-blue: #2D7DFF !important;
+--color-ice: #29F3FF  !important;
+--color-teal: #099090!important;
+--color-lime: #5dd400 !important;
+--color-green: #00E706 !important;
+}
+
+
+/* --------- VARIOUS OBJECTS IN DARK MODE ---------\
+*/
+
+
+html.themeDark {
+    --color-text-primary: #F4F4F4;
+    --color-text-secondary: #9a9a9a;
+    --color-text-tertiary: #606060;
+    --color-text-inversion: #F4F4F4;
+    --color-shape-primary: #644990;
+    --color-shape-secondary: #2D2A3E;
+    --color-shape-tertiary: #151120 !important;
+    --color-shape-highlight-dark: rgba(238, 238, 238, 0.24);
+    --color-shape-highlight-medium: rgba(238, 238, 238, 0.12);
+    --color-shape-highlight-light: rgba(238, 238, 238, 0.06);
+    --color-shape-highlight-light-solid: #242424;
+    --color-control-accent: #2195F3;
+    --color-control-active: #9a9a9a;
+    --color-control-inactive: #464646;
+    --color-control-bg: #fff;
+    --color-bg-primary: #1e1f29 !important;
+    --color-bg-secondary: #252525;
+    --color-bg-tertiary: #464646;
+    --color-bg-loader: rgba(0,0,0,0.7);
+    --color-system-accent-125: #ffc83c;
+    --color-system-accent-50: #9f6b00;
+    --color-system-accent-25: #f09c0e;
+    --color-system-selection: rgba(24, 163, 241, 0.15);
+}
+
+
+
+
+
+
+/* --------- HIGHTLIGHT COLOURS IN LIGHT MODE ---------\
+*/
+
+
+
+:root {
+
+ .bgColor-grey {
+background: #CFCFCF  !important;
+    }
+.bgColor-yellow {
+background: #FFF668  !important;
+    }
+.bgColor-orange {
+background: #FEAD6F  !important;
+    }
+.bgColor-red {
+background: #FF6F92 !important;
+    }
+.bgColor-pink {
+background: #FFA7FB   !important;
+    }
+ .bgColor-purple {
+background: #BC6DFF  !important;
+    }
+.bgColor-blue {
+background: #28B8FF  !important;
+    }
+.bgColor-ice {
+background: #5CFDFF  !important;
+    }
+.bgColor-teal {
+background: #02B9AE   !important;
+    }
+.bgColor-lime {
+background: #8FFFA4  !important;
+    }
+
+}
+
+
+
+/* --------- HIGHTLIGHT COLOURS IN DARK MODE ---------\
+*/
+
+
+
+
+html.themeDark .bgColor-grey {
+background: #CFCFCF  !important;
+    }
+html.themeDark .bgColor-yellow {
+background: #FFF668  !important;
+    }
+html.themeDark .bgColor-orange {
+background: #FEAD6F  !important;
+    }
+html.themeDark .bgColor-red {
+background: #ff5555  !important;
+    }
+html.themeDark .bgColor-pink {
+background: #FFA7FB   !important;
+    }
+html.themeDark .bgColor-purple {
+background: #BC6DFF  !important;
+    }
+html.themeDark .bgColor-blue {
+background: #28B8FF  !important;
+    }
+html.themeDark .bgColor-ice {
+background: #5CFDFF !important;
+    }
+html.themeDark .bgColor-teal {
+background: #02B9AE  !important;
+    }
+html.themeDark .bgColor-lime {
+background: #8FFFA4  !important;
+    }
+
+
+
+
+
+
+
+/* --------- TAG COLOURS IN LIGHT MODE ---------\
+*/
+
+
+
+:root {
+
+.isMultiSelect.tagColor-grey {
+    color: #000000 !important;
+background: #CFCFCF !important;
+}
+.isMultiSelect.tagColor-yellow {
+    color: #000000 !important;
+background: #FFF668 !important;
+}
+.isMultiSelect.tagColor-orange {
+    color: #000000  !important;
+background: #FEAD6F !important;
+}
+.isMultiSelect.tagColor-red {
+    color: #000000  !important;
+background: #FF6F92 !important;
+}
+.isMultiSelect.tagColor-pink {
+    color: #000000 !important;
+background: #FFA7FB !important;
+}
+.isMultiSelect.tagColor-purple {
+    color: #000000 !important;
+background: #BC6DFF !important;
+}
+.isMultiSelect.tagColor-blue {
+    color: #000000 !important;
+background: #28B8FF !important;
+}
+.isMultiSelect.tagColor-ice {
+    color: #000000  !important;
+background: #5CFDFF !important;
+}
+.isMultiSelect.tagColor-teal {
+    color: #000000 !important;
+background: #02B9AE  !important;
+}
+.isMultiSelect.tagColor-lime {
+    color: #000000 !important;
+background: #8FFFA4 !important;
+}
+
+
+}
+
+
+
+/* --------- TAG COLOURS IN DARK MODE ---------\
+*/
+
+
+
+html.themeDark .isMultiSelect.tagColor-grey {
+    color: #000000 !important;
+background: #CFCFCF !important;
+}
+html.themeDark .isMultiSelect.tagColor-yellow {
+    color: #000000 !important;
+background: #FFF668 !important;
+}
+html.themeDark .isMultiSelect.tagColor-orange {
+    color: #000000  !important;
+background: #FEAD6F !important;
+}
+html.themeDark .isMultiSelect.tagColor-red {
+    color: #000000  !important;
+background: #ff5555 !important;
+}
+html.themeDark .isMultiSelect.tagColor-pink {
+    color: #000000 !important;
+background: #FFA7FB !important;
+}
+html.themeDark .isMultiSelect.tagColor-purple {
+    color: #000000 !important;
+background: #BC6DFF !important;
+}
+html.themeDark .isMultiSelect.tagColor-blue {
+    color: #000000 !important;
+background: #28B8FF !important;
+}
+html.themeDark .isMultiSelect.tagColor-ice {
+    color: #000000  !important;
+background: #5CFDFF !important;
+}
+html.themeDark .isMultiSelect.tagColor-teal {
+    color: #000000 !important;
+background: #02B9AE  !important;
+}
+html.themeDark .isMultiSelect.tagColor-lime {
+    color: #000000 !important;
+background: #8FFFA4 !important;
+}
+
+
+
+/* --------- STYLES FOR THE HIGHLIGHTS & BLOCK BACKGROUNDS IN DARK MODE ---------\
+*/
+
+
+/* Universal styles for highlighting and curved corners */
+
+/* Styles for blocks with custom background */
+.bgColor,
+[style*="background-color"] {
+  border-radius: 3px;
+}
+
+/* Styles for inline highlights */
+mark,
+span[style*="background-color"] {
+  border-radius: 3px;
+  padding: 0 3px;  /* Add some padding for better appearance */
+}
+
+/* Dark mode specific styles */
+html.themeDark {
+  /* Default text color for dark mode */
+  color: white;
+
+  /* Styles for highlighted text or blocks with custom background in dark mode */
+  .bgColor,
+  [style*="background-color"] {
+    color: black !important;
+  }
+
+  /* Ensure text remains black in editable areas with custom background in dark mode */
+  .wrapContent.bgColor .editableWrap,
+  .wrapContent[style*="background-color"] .editableWrap {
+    color: black !important;
+  }
+}
+
+/* Light mode specific styles */
+html.themeLight {
+  /* Default text color for light mode */
+  color: black;
+
+  /* Ensure text remains visible on custom backgrounds in light mode */
+  .bgColor,
+  [style*="background-color"] {
+    color: black !important;
+  }
+}
+
+
+
+
+/* Spaces Bar Background Colour */
+html.themeDark .vault {
+    background-color: #333333;
+}
+
+
+
+
+/* internal links */
+markupmention {
+  color: #9E2CFF ;
+}
+
+
+
+/* external links */
+.blocks .block.blockText markuplink {
+  color: #9800FF;
+}
+
